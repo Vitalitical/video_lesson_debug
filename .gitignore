@@ -1,6 +1,6 @@
 __pycache__/
 venv/
 .vscode/
-01_multifiles
+utlis.py
 02_two_functions.py
 03_endless_cycle.py
